@@ -1,0 +1,15 @@
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\Assessment2.csproj.AssemblyReference.cache
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\Assessment2.AssemblyInfoInputs.cache
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\Assessment2.AssemblyInfo.cs
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\Assessment2.csproj.CoreCompileInputs.cache
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\bin\Debug\net6.0\Assessment2.deps.json
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\bin\Debug\net6.0\Assessment2.dll
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\bin\Debug\net6.0\ref\Assessment2.dll
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\bin\Debug\net6.0\Assessment2.pdb
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\Assessment2.dll
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\ref\Assessment2.dll
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\Assessment2.pdb
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\bin\Debug\net6.0\Assessment2.exe
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\bin\Debug\net6.0\Assessment2.runtimeconfig.json
+C:\Wealth\assessment\Areeya.Sai.Castro\Assessment2\obj\Debug\net6.0\Assessment2.genruntimeconfig.cache
